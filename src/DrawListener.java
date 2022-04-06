@@ -6,7 +6,7 @@
  *  Interface that accompanies Draw.java.
  ******************************************************************************/
 
-package exercice;
+package src;
 
 /**
  *  <i>DrawListener</i>. This interface provides a basic capability for

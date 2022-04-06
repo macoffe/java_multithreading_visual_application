@@ -1,4 +1,4 @@
-package exercice;
+package src;
 
 public class Application1 {
 

@@ -1,4 +1,4 @@
-package exercice;
+package src;
 
 import java.util.concurrent.ForkJoinPool;
 
